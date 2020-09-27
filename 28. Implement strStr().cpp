@@ -1,3 +1,5 @@
+//Leetcode link: https://leetcode.com/problems/implement-strstr/
+
 class Solution {
 public:
     void create_lps(string pat, int lps[])
